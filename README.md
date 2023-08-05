@@ -10,4 +10,5 @@ This repository contains the code for building a Netflix-inspired home page usin
 
 
   
-![Screenshot (10)](https://github.com/Prem3232/NETFLIX_CLONE_WEBSITE/assets/138702669/5ef0f6b4-15b4-4306-8540-b1e5c8829f04)
+![Screenshot (10)](https://github.com/Prem3232/NETFLIX_CLONE_WEBSITE/assets/138702669/a12f2e47-792b-4fb4-8bbc-5eb22da63e90)
+
